@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: black;
     background-color: pink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -13,7 +13,7 @@ ul {
 }
 
 a {
-    color: white;
+    color: black;
     text-decoration: none;
 }
 
@@ -29,7 +29,7 @@ img {
 }
 
 h1 {
-    color: rgb(121, 62, 100);
+    color: hsl(325, 88%, 50%);
 }
 
 footer img {
@@ -54,6 +54,9 @@ footer p {
 
 .container {
     padding: 0px 50px;
+    color: black;
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 nav a:hover {
